@@ -11,7 +11,7 @@ color: #FFFFFF;
 .container-fluid {
 
 background-color: #FFFAFA;
-margin-top: 30px;
+margin-top: 40px;
 }
 
 .navbar-nav >li:not(:last-child) {
@@ -244,6 +244,7 @@ margin-top: 60px;
 background-color: #FF0000;	
 padding-top: 15px;
 text-align: center;
+width: 100%;
 }
 
 .col-sm-12 a {
